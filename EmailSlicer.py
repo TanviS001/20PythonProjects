@@ -10,9 +10,9 @@ def main():
     (username, domain) = email_address.split("@")
     (domain, extension) = domain.split(".")
 
-    print("Username: ", username)
-    print("Domain name: ", domain)
-    print("Extension: ", extension)
+    print("Your Username is: ", username)
+    print("The Domain name is: ", domain)
+    print("The Extension is: ", extension)
 
 
 main()
