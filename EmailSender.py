@@ -2,10 +2,10 @@ from email.message import EmailMessage
 import smtplib
 import ssl
 
-email_sender = "tanvisuryavanshi01@gmail.com"
+email_sender = "tanvi@gmail.com"
 email_password = "nolbnwznlhbjzgdt"
 
-email_receiver = "tanishqas001@gmail.com"
+email_receiver = "tan@gmail.com"
 
 subject = "Great thing!"
 body = """
